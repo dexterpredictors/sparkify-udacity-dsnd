@@ -1,5 +1,4 @@
 # sparkify udacity capstone project
-Predicting user churn for a song streaming company
 
 In this project, we analyze the data from a song application to predict the churn from users. The dataset (128 MB) we use here is a subset of the whole data. We use the power of apache spark to perform data manipulations and build our models for this problem.
 
