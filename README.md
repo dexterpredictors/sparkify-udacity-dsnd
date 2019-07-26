@@ -20,3 +20,11 @@ The code can be found at [Sparkify.ipynb](https://github.com/savinay/sparkify---
 
 The blog post about the details of the findings can be found at [Medium Post](https://medium.com/@savinaynarendra/sparkify-project-predicting-user-churn-8d9ee4185274)
 
+Libraries used:
+
+  1. pySpark
+  2. Pandas
+  3. Seaborn
+  4. Numpy
+  5. Matplotlib
+  
